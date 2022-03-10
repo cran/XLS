@@ -1,8 +1,8 @@
-6d5da21a1f1ecbf9dc62b2020519363b *DESCRIPTION
+e578572bf643e700a553227cfabf94df *DESCRIPTION
 36157d3ab0f6a504bee053c15cc27622 *NAMESPACE
-502ddc9ee1ed5dfc4054729f646ca621 *R/xls.fit.R
-e16e3c28d9dd8ae3c31202303baec8e6 *R/xls.objfun.R
-de33b150fabd76bc3e0691cd466374be *R/xls.prep.R
-1fa55098425eff131553f4ea30c210a3 *man/xls.fit.Rd
-116be84638516809480a1387bb92a136 *man/xls.objfun.Rd
-7d2316cdc66dcd4be109684903318a46 *man/xls.prep.Rd
+7aa0dc5433f4a1d6af09eb869364c3dc *R/xls.fit.R
+fcf258b4cfcda0251e8172302e9cdb59 *R/xls.objfun.R
+4f188c78a2d8751c374cde84506a205a *R/xls.prep.R
+251e829124080a0719e5e6147e541134 *man/xls.fit.Rd
+86098f8b7348a10ce1be9a4d0984dbbe *man/xls.objfun.Rd
+1a801f026ca3a083ddc43571b845a71c *man/xls.prep.Rd
